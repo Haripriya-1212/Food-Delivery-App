@@ -6,8 +6,8 @@ Welcome to the Food Delivery App repository, a comprehensive solution built usin
 
 - **Frontend**: 
   - **Flutter**: For building natively compiled applications for mobile from a single codebase.
-- **Backend**: 
-  - **PHP**: For handling server-side logic (used MAMP).
+- **Backend** (used MAMP): 
+  - **PHP**: For handling server-side logic.
   - **MySQL**: For database management.
 - **API**: RESTful APIs for communication between the frontend and backend.
 
