@@ -11,7 +11,8 @@ Welcome to the Food Delivery App repository, a comprehensive solution built usin
   - **MySQL**: For database management.
 - **API**: RESTful APIs for communication between the frontend and backend.
 
-![App Screenshot](Example/login.png)
+<!--![App Screenshot](Example/login.png)-->
+<img src="Example/login.png" alt="App Screenshot" width="500"/>
 
 <!--
 ## Getting Started
