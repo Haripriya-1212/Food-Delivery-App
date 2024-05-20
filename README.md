@@ -12,7 +12,7 @@ Welcome to the Food Delivery App repository, a comprehensive solution built usin
 - **API**: RESTful APIs for communication between the frontend and backend.
 
 <!--![App Screenshot](Example/login.png)-->
-<img src="Example/login.png" alt="App Screenshot" width="500"/>
+<img src="Example/login.png" alt="App Screenshot" width="100"/>
 
 <!--
 ## Getting Started
