@@ -1,4 +1,4 @@
-# Food Delivery App
+# 🍔 Food Delivery App
 
 Welcome to the Food Delivery App repository, a comprehensive solution built using Flutter, PHP, and MySQL. This app streamlines the process of ordering food from various restaurants, offering a seamless user experience for both customers and restaurant owners.
 
